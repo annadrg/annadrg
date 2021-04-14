@@ -4,7 +4,7 @@
 
 #### About me
 - 🇳🇱   Dutch
-- 📖: Student at <a href="https://codaisseur.com/">Codaisseur</a>
+- 📖: Student at <a href="https://codaisseur.com/" target="_blank">Codaisseur</a>
 - ✉️   You can reach me at <a href="mailto:mail@annaderuig.nl">mail@annaderuig.nl</a>
 
 #### My languages and tools
