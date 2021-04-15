@@ -31,4 +31,12 @@
 <a href="https://sequelize.org/"> <img align="left" alt="Sequelize" title="Sequelize" height="30px" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" /> </a>
 
 <a href="https://getbootstrap.com/"> <img align="left" alt="Bootstrap" title="Bootstrap" height="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" /> </a>
+
+<br/><br/>
+
+
+#### My projects
+For my final project of the Codaisseur Academy I created Dinely. Dinely is an app in which you can keep track of your restaurants, you can add restaurants to your wishlist and review restaurants you have visited. Dinely is build with React Native and TypeScript. I am currently working on a web version of the app.
+
+You can find more information on this project [here](https://github.com/annadrg/dinely-frontend).
                                                                                                               
