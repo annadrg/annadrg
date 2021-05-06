@@ -4,7 +4,7 @@
 
 #### About me
 - 🇳🇱   Dutch
-- 📖 Student at <a href="https://codaisseur.com/">Codaisseur</a>
+- :mortar_board: Graduate <a href="https://codaisseur.com/">Codaisseur</a>
 - :speech_balloon: Background in Communication Science
 - ✉️   You can reach me at <a href="mailto:mail@annaderuig.nl">mail@annaderuig.nl</a>
 
