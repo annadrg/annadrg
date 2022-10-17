@@ -18,7 +18,7 @@ Want to know more about me? You can reach me at <a href="mailto:mail@annaderuig.
 
 <a href="https://reactjs.org/"> <img align="left" alt="React" title="React" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
 
-<a href="https://jestjs.io/"> <img align="left" alt="Jest" title="Jest" width="30px" src="https://nx.dev/documentation/shared/jest-logo.png" /></a>
+<a href="https://jestjs.io/"> <img align="left" alt="Jest" title="Jest" width="30px" src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" /></a>
 
 <a href="https://testing-library.com/"> <img align="left" alt="Testing Library" title="Testing Library" width="30px" src="https://testing-library.com/img/octopus-128x128.png" /></a>
 
